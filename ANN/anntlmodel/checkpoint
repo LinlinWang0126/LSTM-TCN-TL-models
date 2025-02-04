@@ -1,0 +1,2 @@
+model_checkpoint_path: "model_ann_weight_TL"
+all_model_checkpoint_paths: "model_ann_weight_TL"
